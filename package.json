@@ -1,0 +1,23 @@
+{
+  "name": "clean-architecture-express-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --collectCoverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksiwt/clean-architecture-express-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksiwt/clean-architecture-express-contacts/issues"
+  },
+  "homepage": "https://github.com/ksiwt/clean-architecture-express-contacts#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
